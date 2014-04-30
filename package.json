@@ -1,0 +1,13 @@
+{
+  "name": "grunt-newerless",
+  "version": "0.0.1",
+  "dependencies": {
+    "async": "*"
+  },
+  "engine": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "main": "index.js"
+  }
+}
