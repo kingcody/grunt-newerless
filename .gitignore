@@ -1,0 +1,7 @@
+*.tmp
+*.bac
+*.bak
+*.old
+*.sublime*
+
+node_modules
