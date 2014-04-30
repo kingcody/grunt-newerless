@@ -1,0 +1,13 @@
+{
+  "name": "primecarewebsite",
+  "version": "0.0.0",
+  "dependencies": {
+    "async": "*"
+  },
+  "engine": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "main": "index.js"
+  }
+}
