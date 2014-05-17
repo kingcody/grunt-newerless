@@ -6,7 +6,7 @@ small function for using newer.override with less files; specifically ones with 
 ## Install
 
 ```shell
-npm install https://github.com/kingcody/grunt-newerless.git --save-dev
+npm install git://github.com/kingcody/grunt-newerless.git --save-dev
 ```
 
 ## Usage
